@@ -1,7 +1,7 @@
 {
   "name": "@your-username/beta",
   "repository": "git@github.com:your-username/your-repo-name.git",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
