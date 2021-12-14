@@ -1,1 +1,1 @@
-module.exports = oleg;
+module.exports = alpha;
