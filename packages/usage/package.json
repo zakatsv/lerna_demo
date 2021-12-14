@@ -1,9 +1,9 @@
 {
   "name": "@your-username/usage",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": "git@github.com:your-username/your-repo-name.git",
   "dependencies": {
-    "@your-username/alpha": "^0.0.3",
+    "@your-username/alpha": "^0.0.4",
     "@your-username/beta": "^0.1.1"
   },
   "publishConfig": {
