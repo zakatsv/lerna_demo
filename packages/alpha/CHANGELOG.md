@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.3](https://github.com/your-username/your-repo-name/compare/@your-username/alpha@0.0.2...@your-username/alpha@0.0.3) (2021-12-14)
+
+
+### Bug Fixes
+
+* put oleg in alpha package ([b88a3b0](https://github.com/your-username/your-repo-name/commit/b88a3b0759f7fe2a32c519cc9254b228ac9c5e62))
+
+
+
+
+
 ## [0.0.2](https://github.com/your-username/your-repo-name/compare/@your-username/alpha@0.0.1...@your-username/alpha@0.0.2) (2021-12-10)
 
 
